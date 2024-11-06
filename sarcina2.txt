@@ -1,0 +1,3 @@
+Creați un repozitoriu cu numele Sarcina2. În acest repozitoriul adăugați două fișiere textuale și un fișier html creați 3 ramuri suplimentare cu numele BugFix, Dev și Test, realizați cîte două commit-uri în fiecare ramură , modificînd conținutul fișierelor la fiecare commit., după care concatenați ramura BugFix cu Dev.
+
+
